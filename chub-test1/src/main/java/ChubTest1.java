@@ -1,8 +1,8 @@
 /**
+ * @author : chub
+ * @version : 例如:V3.0.1
  * @file name      : ChubTest1
  * @describe : 例如:前置程序API函数
- * @version : 例如:V3.0.1
- * @author : chub
  * @created on     : 2020-10-19
  * @last modified  : 2020-10-19
  * @module purpose : 例如:前置程序所用的函数
@@ -18,5 +18,7 @@ public class ChubTest1 {
 
     public static void main(String[] args) {
         System.out.println("this is a test class!");
+
+        System.out.println("rollback!");
     }
 }
